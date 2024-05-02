@@ -1,2 +1,2 @@
 # APS
-Software Hórus, voltado para plataformas Omnichannel.
+Sistema Hórus voltado para plataformas Omnichannel.
